@@ -1,4 +1,4 @@
-# Double Q-Learning with Function Approximation using NN - Covid Simulator
+# Double Q-Learning with Function Approximation using NN <br> Reinforcement Learning Covid-19 Simulator
 
 ## Abstract
 
